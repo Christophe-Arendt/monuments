@@ -2,3 +2,6 @@
 *.csv
 /.ipynb_checkpoints
 /Monuments/flickr.py
+*flickr.py
+
+/non_selected
