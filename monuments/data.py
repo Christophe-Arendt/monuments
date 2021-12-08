@@ -16,7 +16,7 @@ def csv_path(data_path):
     df['target'] = target
 
     # Save as csv
-    df.to_csv(f"{data_path}/path_csv.csv", index=False)
+    #df.to_csv(f"{data_path}/path_csv.csv", index=False)
     return df
 
 
